@@ -1,10 +1,10 @@
 ---
-title: Will. Run. Code.
-subtitle: A place for me to share anything related to software engineering, and something interesting outside the work.
+title: Will. Yi.
+subtitle: Software development engineer specicalized in automation, networking and cloud operation.
 layout: layouts/base.njk
 ---
 
-## This site is a starting point
+## Hi, my name is Will Yi and I am a software engineer
 
 From this point we should already have:
 
@@ -16,9 +16,7 @@ From this point we should already have:
 - [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
 - Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
 
-## Post pages
-
-The pages found in in the posts
+## Blog Post
 
 <ul class="listing">
 {%- for page in collections.post -%}
