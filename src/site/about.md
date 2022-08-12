@@ -1,7 +1,7 @@
 ---
-title: Get Yours
+title: Will. Yi.
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Husband, dad, runner, guitar player, and a software engineer.
 ---
 
 ## Hosting
